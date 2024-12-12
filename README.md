@@ -14,13 +14,13 @@
 
 ## 🛠️ Introdução
 
-Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses projetos mostram de forma prática o meu conhecimento e meu aprendizado.
+:wink: Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses projetos mostram de forma prática o meu conhecimento e aprendizado.
 
 ## 📁 Projetos
 
 ### 💻 Laboratórios de Cursos
 
-Aqui estão alguns laboratórios realizados durante meu Bootcamp:
+ Aqui estão alguns laboratórios realizados durante meu Bootcamp:
 
 1. **Laboratório Phishing** 🚀
    - Descrição: Realização de uma página do instagram para phishing.
