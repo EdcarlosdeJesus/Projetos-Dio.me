@@ -25,7 +25,7 @@ Aqui estão alguns laboratórios realizados durante meus cursos:
 
 1. **Laboratório de Configuração de Roteadores** 🚀
    - Descrição: Configuração básica de roteadores Cisco.
-   - [Ver Projeto](/.https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing)
+   - [Ver Projeto](./cibersecurity-desafio-phishing)
 
 2. **Laboratório de VLANs** 🌈
    - Descrição: Implementação de VLANs em um ambiente de switch.
