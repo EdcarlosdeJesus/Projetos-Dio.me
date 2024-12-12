@@ -1,5 +1,5 @@
-# Projetos-Dio.me
-# 🌐 Portfólio de Projetos em Redes de Computadores
+#🌐 Projetos-Dio.me
+
 
 👋 Bem-vindo ao meu portfólio de projetos dedicados a **Projetos-Dio.me**! Este repositório reúne uma série de laboratórios, projetos práticos e estudos de caso que demonstram meu aprendizado e habilidades nesta área fascinante. Aqui, você encontrará conteúdos que vão desde a **resolução de problemas** até a **configuranção de labs**.
 
@@ -25,7 +25,7 @@ Aqui estão alguns laboratórios realizados durante meus cursos:
 
 1. **Laboratório de Configuração de Roteadores** 🚀
    - Descrição: Configuração básica de roteadores Cisco.
-   - [Ver Projeto]((https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing))
+   - [Ver Projeto](./https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing)
 
 2. **Laboratório de VLANs** 🌈
    - Descrição: Implementação de VLANs em um ambiente de switch.
