@@ -8,8 +8,7 @@
 - [Introdução](#introdução)
 - [Projetos](#projetos)
   - [Laboratórios de Cursos](#laboratórios-de-cursos)
-  - [Projetos Caseiros](#projetos-caseiros)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
@@ -23,9 +22,9 @@ Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses proj
 
 Aqui estão alguns laboratórios realizados durante meus cursos:
 
-1. **Laboratório de Configuração de Roteadores** 🚀
-   - Descrição: Configuração básica de roteadores Cisco.
-   - [Ver Projeto](./cibersecurity-desafio-phishing)
+1. **Laboratório Explorando falhas no FTP** 🚀
+   - Descrição: Explorando falhas no FTP.
+   - [Ver Projeto](.laboratorios/cibersecurity-desafio-phishing)
 
 2. **Laboratório de VLANs** 🌈
    - Descrição: Implementação de VLANs em um ambiente de switch.
@@ -36,24 +35,7 @@ Aqui estão alguns laboratórios realizados durante meus cursos:
    - [Ver Projeto](./laboratorios/dhcp-dns)
 
 ---
-
-### 🛠️ Projetos Caseiros
-
-Estes são projetos que desenvolvi de forma independente:
-
-1. **Ping / ICMP / Tracert** 📶
-   - Descrição: Configuração e resolução de problemas de rede.
-   - [Ver Projeto](https://github.com/EdcarlosdeJesus/Network_Lab_Exercises)
-
-2. **Firewall com iptables** 🔥
-   - Descrição: Configuração de um firewall utilizando iptables no Linux.
-   - [Ver Projeto](./caseiros/firewall-iptables)
-
-3. **Simulador de Ataques DDoS** 💥
-   - Descrição: Simulação de um ataque DDoS em um ambiente controlado para fins educacionais.
-   - [Ver Projeto](./caseiros/ddos-simulator)
-
----
+ 
 
 ## ⚙️ Tecnologias Utilizadas
 
