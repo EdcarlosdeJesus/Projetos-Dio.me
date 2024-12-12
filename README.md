@@ -30,11 +30,11 @@
    - Descrição: Explorando falhas no FTP.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Explorando-falhas-no-FTP)
 
-3. **Laboratório Ataques DoS no Windows RDP** 🌐
+3. **Laboratório Ataques DoS no Windows RDP** 🪟
    - Descrição:  Ataques DoS no Windows RDP.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Ataques-DoS-no-Windows-RDP)
   
-3. **Laboratório Explorando falhas no SSH** 🌐
+3. **Laboratório Explorando falhas no SSH** 👾
    - Descrição: Explorando falhas no SSH.
    - [Ver Projeto]( )
 
