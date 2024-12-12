@@ -32,7 +32,7 @@ Aqui estão alguns laboratórios realizados durante meu Bootcamp:
 
 3. **Laboratório Ataques DoS no Windows RDP** 🌐
    - Descrição:  Ataques DoS no Windows RDP.
-   - [Ver Projeto](./laboratorios/dhcp-dns)
+   - [Ver Projeto](https://github.com/EdcarlosdeJesus/Ataques-DoS-no-Windows-RDP)
   
 3. **Laboratório Explorando falhas no SSH** 🌐
    - Descrição: Explorando falhas no SSH.
