@@ -22,9 +22,9 @@ Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses proj
 
 Aqui estão alguns laboratórios realizados durante meus cursos:
 
-1. **Laboratório Explorando falhas no FTP** 🚀
-   - Descrição: Explorando falhas no FTP.
-   - [Ver Projeto](./cibersecurity-desafio-phishing)
+1. **Laboratório Phishing** 🚀
+   - Descrição: Realização de uma página do instagram para phishing.
+   - [Ver Projeto](https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing)
 
 2. **Laboratório de VLANs** 🌈
    - Descrição: Implementação de VLANs em um ambiente de switch.
