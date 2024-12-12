@@ -26,13 +26,17 @@ Aqui estão alguns laboratórios realizados durante meus cursos:
    - Descrição: Realização de uma página do instagram para phishing.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing)
 
-2. **Laboratório de VLANs** 🌈
-   - Descrição: Implementação de VLANs em um ambiente de switch.
-   - [Ver Projeto](./laboratorios/vlans)
+2. **Laboratório Explorando falhas no FTP** 💻
+   - Descrição: Explorando falhas no FTP.
+   - [Ver Projeto]( )
 
-3. **Laboratório de DHCP e DNS** 🌐
+3. **Laboratório Ataques DoS no Windows RDP** 🌐
    - Descrição: Configuração de servidores DHCP e DNS.
    - [Ver Projeto](./laboratorios/dhcp-dns)
+  
+3. **Laboratório Explorando falhas no SSH** 🌐
+   - Descrição: Explorando falhas no SSH.
+   - [Ver Projeto]( )
 
 ---
  
