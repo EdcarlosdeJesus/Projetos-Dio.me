@@ -20,7 +20,7 @@ Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses proj
 
 ### 💻 Laboratórios de Cursos
 
-Aqui estão alguns laboratórios realizados durante meus cursos:
+Aqui estão alguns laboratórios realizados durante meu Bootcamp:
 
 1. **Laboratório Phishing** 🚀
    - Descrição: Realização de uma página do instagram para phishing.
