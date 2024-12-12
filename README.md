@@ -44,6 +44,9 @@ Aqui estão alguns laboratórios realizados durante meu Bootcamp:
 ## ⚙️ Tecnologias Utilizadas
 
 - **Vms** 🖥️
+- **Windows xp** :window:
+- **kali linux** :computer:
+- **Metasploit** :skull_and_crossbones:
  
 
 ## 🤝 Como Contribuir
