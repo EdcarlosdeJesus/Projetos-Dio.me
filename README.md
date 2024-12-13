@@ -8,7 +8,7 @@
 - [Introdução](#introdução)
 - [Projetos](#projetos)
   - [Laboratórios de Cursos](#laboratórios-de-cursos)
-   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
