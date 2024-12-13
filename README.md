@@ -40,7 +40,7 @@
 
 ---
  
-###  Tecnologias utilizadas⚙️
+ ##  Tecnologias utilizadas⚙️
 
 - **Vms** 🖥️
 - **Windows xp** :window:
@@ -54,8 +54,7 @@ Se você deseja contribuir para este repositório ou tem sugestões, sinta-se à
 
 ##  Licença📜
 
-Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+Este projeto está licenciado sob a **Licença MIT**. 
 ---
 
 ##  Agradeço por visitar meu portfólio! Espero que você encontre os projetos úteis e inspiradores. 🌟🙏
