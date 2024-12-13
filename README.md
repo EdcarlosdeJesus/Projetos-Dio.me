@@ -12,7 +12,7 @@
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
-## 🛠️ Introdução
+##  Introdução🛠️
 
 :wink: Projetos realizado pelo bootcamp #santander2024 na plataforma dio.me, esses projetos mostram de forma prática o meu conhecimento e aprendizado.
 
@@ -41,7 +41,7 @@
 ---
  
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas⚙️
 
 - **Vms** 🖥️
 - **Windows xp** :window:
@@ -49,11 +49,11 @@
 - **Metasploit** :skull_and_crossbones:
  
 
-## 🤝 Como Contribuir
+##  Como Contribuir🤝
 
 Se você deseja contribuir para este repositório ou tem sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a melhorias e novas ideias!
 
-## 📜 Licença
+##  Licença📜
 
 Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
