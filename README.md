@@ -38,21 +38,15 @@
    - Descrição: Explorando falhas no SSH.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Laborat-rio-Explorando-falhas-no-SSH/blob/main/README.md )
   
-5. **Laboratório Escalonamento de privilégios no Windows** 🪟 
-   - Descrição: Escalonamento de privilégios no Windows.
+5. **Laboratório Capturando dados da rede** :globe_with_meridians:
+   - Descrição: Capturando dados da rede
    - [Ver Projeto]( )
   
-6. **Laboratório Extração de dados com Metasploit** :game_die:
+6. **Laboratório Manipulando a rede** :game_die:
    - Descrição: Extração de dados com Metasploit
    - [Ver Projeto](  )
   
-7. **Laboratório Módulos de pós exploração** :hourglass:
-   - Descrição: Módulos de pós exploração.
-   - [Ver Projeto]( )
-  
-8. **Laboratório Persistência de sessão no Metasploit** :dart:
-   - Descrição: Persistência de sessão no Metasploit.
-   - [Ver Projeto]( )
+
 
 ---
  
@@ -62,6 +56,7 @@
 - **Windows xp / 7** :window:
 - **kali linux** :computer:
 - **Metasploit** :skull_and_crossbones:
+- **Wireshark**  :shark:
  
 
 ##  Como Contribuir🤝
