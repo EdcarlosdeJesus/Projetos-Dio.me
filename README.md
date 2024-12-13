@@ -49,14 +49,14 @@
 - **Metasploit** :skull_and_crossbones:
  
 
-##  Como Contribuir 🤝
+##  Como Contribuir🤝
 
 Se você deseja contribuir para este repositório ou tem sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a melhorias e novas ideias!
 
-##  Licença 📜
+##  Licença📜
 
 Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-🙏 Agradeço por visitar meu portfólio! Espero que você encontre os projetos úteis e inspiradores. 🌟
+##  Agradeço por visitar meu portfólio! Espero que você encontre os projetos úteis e inspiradores. 🌟🙏
