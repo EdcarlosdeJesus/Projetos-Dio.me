@@ -57,4 +57,4 @@ Se você deseja contribuir para este repositório ou tem sugestões, sinta-se à
 Este projeto está licenciado sob a **Licença MIT**. 
 
 
-Agradeço por visitar meu portfólio! Espero que você encontre os projetos úteis e inspiradores. 🌟🙏
+🙏Agradeço por visitar meu portfólio! Espero que você encontre os projetos úteis e inspiradores. 🌟
