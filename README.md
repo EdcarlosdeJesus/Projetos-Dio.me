@@ -36,7 +36,7 @@
   
 3. **Laboratório Explorando falhas no SSH** 👾
    - Descrição: Explorando falhas no SSH.
-   - [Ver Projeto]( )
+   - [Ver Projeto](https://github.com/EdcarlosdeJesus/Laborat-rio-Explorando-falhas-no-SSH/blob/main/README.md )
 
 ---
  
