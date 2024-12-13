@@ -34,16 +34,32 @@
    - Descrição:  Ataques DoS no Windows RDP.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Ataques-DoS-no-Windows-RDP)
   
-3. **Laboratório Explorando falhas no SSH** 👾
+4. **Laboratório Explorando falhas no SSH** 👾
    - Descrição: Explorando falhas no SSH.
    - [Ver Projeto](https://github.com/EdcarlosdeJesus/Laborat-rio-Explorando-falhas-no-SSH/blob/main/README.md )
+  
+5. **Laboratório Escalonamento de privilégios no Windows** 🪟 
+   - Descrição: Escalonamento de privilégios no Windows.
+   - [Ver Projeto]( )
+  
+6. **Laboratório Extração de dados com Metasploit** :game_die:
+   - Descrição: Extração de dados com Metasploit
+   - [Ver Projeto](  )
+  
+7. **Laboratório Módulos de pós exploração** :hourglass:
+   - Descrição: Módulos de pós exploração.
+   - [Ver Projeto]( )
+  
+8. **Laboratório Persistência de sessão no Metasploit** :dart:
+   - Descrição: Persistência de sessão no Metasploit.
+   - [Ver Projeto]( )
 
 ---
  
  ##  Tecnologias utilizadas⚙️
 
 - **Vms** 🖥️
-- **Windows xp** :window:
+- **Windows xp / 7** :window:
 - **kali linux** :computer:
 - **Metasploit** :skull_and_crossbones:
  
