@@ -44,7 +44,7 @@
   
 6. **Laboratório Manipulando a rede** :game_die:
    - Descrição: Extração de dados com Metasploit
-   - [Ver Projeto](  )
+   - [Ver Projeto](https://github.com/EdcarlosdeJesus/Manipulando-a-rede/blob/main/README.md)
   
 
 
