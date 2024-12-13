@@ -18,7 +18,7 @@
 
 ## Projetos
 
-### 💻 Laboratórios de Cursos
+###  Laboratórios de Cursos💻
 
  Aqui estão alguns laboratórios realizados durante meu Bootcamp:
 
@@ -41,7 +41,7 @@
 ---
  
 
-## Tecnologias Utilizadas⚙️
+##  Tecnologias Utilizadas⚙️
 
 - **Vms** 🖥️
 - **Windows xp** :window:
