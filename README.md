@@ -41,7 +41,7 @@
 ---
  
 
-##  Tecnologias Utilizadas ⚙️
+##  Tecnologias Utilizadas⚙️
 
 - **Vms** 🖥️
 - **Windows xp** :window:
